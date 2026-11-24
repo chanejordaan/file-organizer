@@ -1,7 +1,8 @@
 # File Organizer
 
 A small desktop app for sorting files into category folders based on their file
-extensions. You can edit the categories and extensions in the app.
+extensions. I created it to make it easier to manage a cluttered downloads
+folder. You can edit the categories and extensions in the app.
 
 ## Requirements
 
